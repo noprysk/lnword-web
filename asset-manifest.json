@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lnword-web/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/lnword-web/static/js/main.cb20c40b.chunk.js",
+    "main.js.map": "/lnword-web/static/js/main.cb20c40b.chunk.js.map",
+    "runtime-main.js": "/lnword-web/static/js/runtime-main.c83474a1.js",
+    "runtime-main.js.map": "/lnword-web/static/js/runtime-main.c83474a1.js.map",
+    "static/js/2.555f0cd7.chunk.js": "/lnword-web/static/js/2.555f0cd7.chunk.js",
+    "static/js/2.555f0cd7.chunk.js.map": "/lnword-web/static/js/2.555f0cd7.chunk.js.map",
+    "static/js/3.9fddaf58.chunk.js": "/lnword-web/static/js/3.9fddaf58.chunk.js",
+    "static/js/3.9fddaf58.chunk.js.map": "/lnword-web/static/js/3.9fddaf58.chunk.js.map",
+    "index.html": "/lnword-web/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/lnword-web/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.555f0cd7.chunk.js.LICENSE.txt": "/lnword-web/static/js/2.555f0cd7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lnword-web/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c83474a1.js",
+    "static/js/2.555f0cd7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.cb20c40b.chunk.js"
+  ]
+}
